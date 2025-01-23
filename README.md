@@ -7,3 +7,5 @@ That's it!
 You'll optionally want to style the WP theme/template.
 
 ![myimage] (clause_manager.JPG)
+
+https://chatgpt.com/c/67925d0c-ebb0-800e-84d8-29cfbe420c8d
