@@ -6,4 +6,4 @@ That's it!
 
 You'll optionally want to style the WP theme/template.
 
-![myimage] (/clause_manager.JPG)
+![myimage] (/assets/images/clause_manager.JPG)
