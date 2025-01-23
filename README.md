@@ -5,3 +5,5 @@
 That's it!
 
 You'll optionally want to style the WP theme/template.
+
+![image] (https://github.com/themightymo/clause-manager/blob/main/clause%20manager.JPG)
